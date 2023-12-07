@@ -6,7 +6,7 @@ Construction d'un jeu permettant à un internaute de gagner une somme d'argent e
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/jeu_la_roue/
 
 ## Développez avec
 
