@@ -128,3 +128,19 @@ header h1 {
     font-weight: bold;
 }
 
+/**** Responsive design ****/
+
+@media screen and (max-width: 572px) {
+    .container {
+        width: 300px;
+        height: 300px
+    }
+
+    .wheel {
+        box-shadow: 0 0 0 5px #333333, 0 0 0 8px #ffffff, 0 0 0 8px #111111;
+    }
+
+    .number span {
+        font-style: 1em;
+    }
+}
